@@ -1,0 +1,6 @@
+{
+  "categories" : {
+    "fun" : [ null, "fun1", "fun2", "fun3" ],
+    "songs" : [ null, "song1", "song2", "song3" ]
+  }
+}
